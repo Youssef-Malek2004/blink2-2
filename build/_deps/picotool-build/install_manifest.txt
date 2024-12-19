@@ -1,0 +1,5 @@
+C:/Users/youss/Desktop/CollegeWork/Embedded Proj GUC/blink2/build/_deps/picotool/picotool.exe
+C:/Users/youss/Desktop/CollegeWork/Embedded Proj GUC/blink2/build/_deps/picotool/picotoolTargets.cmake
+C:/Users/youss/Desktop/CollegeWork/Embedded Proj GUC/blink2/build/_deps/picotool/picotoolTargets-release.cmake
+C:/Users/youss/Desktop/CollegeWork/Embedded Proj GUC/blink2/build/_deps/picotool/picotoolConfig.cmake
+C:/Users/youss/Desktop/CollegeWork/Embedded Proj GUC/blink2/build/_deps/picotool/picotoolConfigVersion.cmake
